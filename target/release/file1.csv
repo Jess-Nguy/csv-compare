@@ -1,0 +1,11 @@
+TransactionID,Date,Description,Amount,Category
+101,2025-01-01 00:00:00,Office Supplies,-50.00,Expenses
+102,2025-01-02 00:00:00,Client Payment,500.00,Income
+103,2025-01-03 00:00:00,travel Expenses,-120.00,Expenses
+104,2025-01-04 00:00:00,Software Subscription,-30.00,Expenses
+105,2025-01-05 00:00:00,Client Payment,300.00,Income
+106,2025-01-06 00:00:00,Utilities,-100.00,Expenses
+107,2025-01-07 00:00:00,Office Rent,-1000.00,Expenses
+108,2025-01-08 00:00:00,Client Payment,700.00,Income
+109,2025-01-09 00:00:00,Marketing,-200.00,Expenses
+110,2025-01-10 00:00:00,Client Payment,400.00,Income
